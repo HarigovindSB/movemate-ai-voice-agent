@@ -2,6 +2,12 @@
 
 A voice-first booking assistant built for the AI Voice Agent technical assessment. The important part of the implementation is not the UI; it is the separation between **LLM interpretation** and a **validated, deterministic booking state**.
 
+## 🚀 Live Demo
+
+**Live Application:** https://movemate-ai-voice-agent.vercel.app
+
+**GitHub Repository:** https://github.com/HarigovindSB/movemate-ai-voice-agent
+
 ## Architecture
 
 ```text
